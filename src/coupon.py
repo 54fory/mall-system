@@ -8,4 +8,3 @@
 
 if __name__ == "__main__":
     print("Final price:", calculate_price(100))
-TEST_API_KEY = "fake-demo-key-only"
